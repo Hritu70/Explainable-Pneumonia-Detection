@@ -248,4 +248,13 @@ Originally sourced from:
 
 **Hrituparna Ghosh**
 
+
 If you found this project interesting, feel free to ⭐ the repository.
+
+
+
+## 🌐 Live Demo
+
+**Application:** https://explainable-pneumonia-detection-2gulfhgq9hnyqbuci8ysie.streamlit.app/
+
+**GitHub Repository:** https://github.com/Hritu70/Explainable-Pneumonia-Detection
